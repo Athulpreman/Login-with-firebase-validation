@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "434548304951",
+    "firebase_url": "https://lgin-validation.firebaseio.com",
+    "project_id": "lgin-validation",
+    "storage_bucket": "lgin-validation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434548304951:android:d879551f5c64a7052023b2",
+        "android_client_info": {
+          "package_name": "com.example.lginvalidation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434548304951-ban1ri09b3pu7bc3nq00lqtt2fmmvf9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lginvalidation",
+            "certificate_hash": "452d8976f8bca156900a3adad1b10466d9d09de5"
+          }
+        },
+        {
+          "client_id": "434548304951-qb1f65vm2ts6rj6ft3pih3j8luk1rsoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB6N6tQOwUFB-WsbFugqluFGy2MK5YXLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434548304951-qb1f65vm2ts6rj6ft3pih3j8luk1rsoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
